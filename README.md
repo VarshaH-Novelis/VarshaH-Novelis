@@ -10,6 +10,6 @@
 
 Contribution:
   - Working on developing DYNAMIC ALERTS for Software Application that will be later used in manufacturing plants at Novelis.
-  - In this project, I am contributing as a full-stack resource, wherein I am using FastAPI, REACT JS (SHADCN), ALEMBIC.
+  - In this project, I am contributing as a full-stack resource, wherein I am using FastAPI, REACT JS (SHADCN), ALEMBIC, SQLALCHEMY (ORM), POSTGRESQL
 
 
